@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/datvutech_music-app-webui/static/css/main.b7c15d1c.css",
-    "main.js": "/datvutech_music-app-webui/static/js/main.48fdedd1.js",
+    "main.js": "/datvutech_music-app-webui/static/js/main.83a5e030.js",
     "static/js/787.a6f638de.chunk.js": "/datvutech_music-app-webui/static/js/787.a6f638de.chunk.js",
     "static/media/BeVietnamProBlack.ttf": "/datvutech_music-app-webui/static/media/BeVietnamProBlack.65882ad114b64cb3e4c4.ttf",
     "static/media/BeVietnamProLight.ttf": "/datvutech_music-app-webui/static/media/BeVietnamProLight.017c29dbc4d9f1f201e9.ttf",
@@ -39,11 +39,11 @@
     "static/media/page-content_play-button-icon.svg": "/datvutech_music-app-webui/static/media/page-content_play-button-icon.12874a440326c2412e4de2a39de362a4.svg",
     "static/media/header_arrow-down.svg": "/datvutech_music-app-webui/static/media/header_arrow-down.4dd27613962ddd88254a7c9d7035cbc4.svg",
     "main.b7c15d1c.css.map": "/datvutech_music-app-webui/static/css/main.b7c15d1c.css.map",
-    "main.48fdedd1.js.map": "/datvutech_music-app-webui/static/js/main.48fdedd1.js.map",
+    "main.83a5e030.js.map": "/datvutech_music-app-webui/static/js/main.83a5e030.js.map",
     "787.a6f638de.chunk.js.map": "/datvutech_music-app-webui/static/js/787.a6f638de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7c15d1c.css",
-    "static/js/main.48fdedd1.js"
+    "static/js/main.83a5e030.js"
   ]
 }
